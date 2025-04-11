@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9ef85ee4-e99a-49c8-8a53-e82a1c10ad58" name="Changes" comment="Version 1" />
+    <list default="true" id="9ef85ee4-e99a-49c8-8a53-e82a1c10ad58" name="Changes" comment="Version 2" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -26,15 +26,16 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "last_opened_file_path": "C:/Users/kesha/OneDrive/Desktop/Hackthon2"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/kesha/OneDrive/Desktop/Hackthon2&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\kesha\OneDrive\Desktop\Hackthon2\models" />
       <recent name="C:\Users\kesha\OneDrive\Desktop\Hackthon2\datasets" />
     </key>
   </component>
@@ -62,11 +63,52 @@
       <option name="project" value="LOCAL" />
       <updated>1744371534015</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Version 2">
+      <option name="closed" value="true" />
+      <created>1744372319045</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1744372319045</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Version 2">
+      <option name="closed" value="true" />
+      <created>1744372354438</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1744372354438</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Version 2">
+      <option name="closed" value="true" />
+      <created>1744372419994</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1744372419994</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Version 2">
+      <option name="closed" value="true" />
+      <created>1744372434964</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1744372434964</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Version 2">
+      <option name="closed" value="true" />
+      <created>1744372516714</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1744372516714</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Version 1" />
-    <option name="LAST_COMMIT_MESSAGE" value="Version 1" />
+    <MESSAGE value="Version 2" />
+    <option name="LAST_COMMIT_MESSAGE" value="Version 2" />
   </component>
 </project>
